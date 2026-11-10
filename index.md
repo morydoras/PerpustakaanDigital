@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Silent Parade by Keigo Higashino](ebook/Silent Parade.pdf) - Keigo Higashino (2025)
 10. [Teka-Teki Gambar Aneh by Uketsu](ebook/Teka-Teki Gambar Aneh.pdf) - Uketsu (2022)
 11. [The Red Palace by June Hur](ebook/The Red Palace.pdf) - June Hur (2022)
-12. [Ringkasan Pemaparan UGC](ebook/Ringkasan Pemaparan UGC Transforming Libraries through Information Technology.pdf) - Maulida Apriliani (2026)
+12. [Ringkasan Pemaparan UGC](ebook/Ringkasan Pemaparan UGC.pdf) - Maulida Apriliani (2026)
 
 ---
 *Powered by GitHub Pages*
