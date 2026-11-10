@@ -7,7 +7,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Gone Girl by Gillian Flynn] (ebook/Gone Girl.pdf) - Gillian Flynn (2012)
 4. [Jejak Balak by Ayu Welirang] (ebook/Jejak Balak.pdf) - Ayu Welirang (2023)
 5. [Lebih Putih Dariku by Dido Michielsen] (ebook/Lebih Putih dariku.pdf) - Dido Michielsen (2022)
-6. [Memory Of Glass by Akiyoshi Rikako] (ebook/Memory Of Glass.pdf) - Akiyoshi Rikako (2018)
+6. [Misteri Patung Garam by Ruwi Meita] (ebook/Misteri Patung Garam.pdf) - Ruwi Meita (2015)
 7. [Notasi by Morra Quatro] (ebook/Notasi.pdf) - Morra Quatro (2013)
 8. [Perjalanan Mustahil Samiam dari Lisboa by Zaky Yamani] (ebook/Perjalanan Mustahil Samian Dari Lisboa.pdf - Zaky Yamani (2021)
 9. [Silent Parade by Keigo Higashino] (ebook/Silent Parade.pdf) - Keigo Higashino (2025)
